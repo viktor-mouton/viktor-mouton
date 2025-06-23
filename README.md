@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Viktor Mouton
+# 👋 Bonjour/Hallo/Hi, I'm Viktor Mouton 🐑
 
 **IT engineer always looking for a challenge while having fun!**
 
