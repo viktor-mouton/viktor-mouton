@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Viktor Mouton
 
-**IT engineer always looking for a challenge!**
+**IT engineer always looking for a challenge while having fun!**
 
 ## 🚀 About Me
 I'm a passionate software engineer with top skills in **.NET**, **Python**, **C#**, and **cloud technology**. I specialize in building robust .NET applications and leveraging the cloud to deliver simple yet powerful solutions.
